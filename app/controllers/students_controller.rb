@@ -8,7 +8,7 @@ class StudentsController < ApplicationController
   def show
   end
 
-  def new_student_path
+  def new
   end
 
   def create
